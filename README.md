@@ -23,7 +23,7 @@
 
 <!-- ======================= INTRO ======================= -->
 
-Official GitHub profile of **5Trainers** — a career-focused education and training company empowering learners with practical, industry-ready digital and technology skills.
+Official GitHub profile of **5Trainers**, A career-focused education and training company empowering learners with practical, industry-ready digital and technology skills.
 
 🌐 **Website:** https://5trainers.com/  
 📍 **Industry:** Education • Digital Skills • Professional Training  
